@@ -10,7 +10,7 @@ voici donc le [LIEN](https://docs.github.com/en/github/writing-on-github/getting
 
 ## Antisèche GIT
 
-![ceci est une image](https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf)
+![ceci est une image](https://github.com/hugowoille/Cheat-sheets/blob/master/images/aide_memoire_git.svg)
  un antisèche GIT un peu plus [approfondi](https://gist.github.com/aquelito/8596717)
 
 ## Antisèche Emmet
