@@ -6,4 +6,4 @@ voici donc le [LIEN](https://docs.github.com/en/github/writing-on-github/getting
 
 ## Antisèche du TERMINAL
 
-![https://github.com/hugowoille/Cheat-sheets/blob/master/images/aide-memoire-terminal.pdf](https://github.com/hugowoille/Cheat-sheets/blob/master/images/aide-memoire-terminal.pdf)
+![https://github.com/hugowoille/Cheat-sheets/blob/master/images/aide-memoire-terminal.svg](https://github.com/hugowoille/Cheat-sheets/blob/master/images/aide-memoire-terminal.svg)
