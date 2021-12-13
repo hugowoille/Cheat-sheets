@@ -10,10 +10,9 @@ voici donc le [LIEN](https://docs.github.com/en/github/writing-on-github/getting
 
 ## Antisèche GIT
 
-
-
-## Antisèche GITHUB
-
-
+![https://github.com/hugowoille/Cheat-sheets/blob/master/images/aide_memoire_git.svg](https://github.com/hugowoille/Cheat-sheets/blob/master/images/aide_memoire_git.svg)
+ un antisèche GIT un peu plus [approfondi](https://gist.github.com/aquelito/8596717)
 
 ## Antisèche Emmet
+
+Et voici donc mon antisèche [EMMET](https://la-cascade.io/une-liste-de-raccourcis-emmet/)
